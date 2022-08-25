@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-r3f",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "react-three-fiber"
+  ],
+  "description": "The base template for Create React App with React Thee Fiber.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwinwebb/create-react-app-r3f.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/edwinwebb/create-react-app-r3f/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
